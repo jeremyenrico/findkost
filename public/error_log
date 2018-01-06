@@ -1,0 +1,6 @@
+[03-Jan-2018 17:02:12 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '&' in /home/fint5303/public_html/index.php on line 37
+[03-Jan-2018 17:04:13 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '&' in /home/fint5303/public_html/index.php on line 37
+[05-Jan-2018 21:35:42 Asia/Jakarta] PHP Warning:  require(/home/fint5303/public_html/../bootstrap/autoload.php): failed to open stream: No such file or directory in /home/fint5303/public_html/index.php on line 22
+[05-Jan-2018 21:35:42 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/fint5303/public_html/../bootstrap/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fint5303/public_html/index.php on line 22
+[06-Jan-2018 05:50:22 UTC] PHP Fatal error:  Call to a member function getClientOriginalName() on a non-object in /home/fint5303/laravel/app/Http/Controllers/AdminController.php on line 79
+[06-Jan-2018 05:52:24 UTC] PHP Fatal error:  Call to a member function getClientOriginalName() on a non-object in /home/fint5303/laravel/app/Http/Controllers/AdminController.php on line 79
